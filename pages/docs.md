@@ -1,15 +1,13 @@
 ---
 title: Documentation
 permalink: /docs/
-
 layout: page
 sidenav: docs
-
 subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
+  - href: '#section-one'
+    text: Section one
+  - href: '#section-two'
+    text: Section two
 ---
 
 # Section one
@@ -35,3 +33,7 @@ This is some more content.
 ###### Section six
 
 This is some more content.
+
+###### Section seven
+
+Seven is alive!
