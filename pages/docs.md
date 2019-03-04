@@ -1,17 +1,6 @@
 ---
 title: Documentation
-permalink: /docs/
-
-layout: page
-sidenav: docs
-
-subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
 ---
-
 # Section one
 
 This is some content.
@@ -35,3 +24,7 @@ This is some more content.
 ###### Section six
 
 This is some more content.
+
+###### Section seven
+
+A seven spot!
